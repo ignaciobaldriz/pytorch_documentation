@@ -1,2 +1,2 @@
 # pytorch_documentation
-My persoanl walk thorugh the PyTorch documentation
+My personal walk through the PyTorch framework documentation and tutorials
